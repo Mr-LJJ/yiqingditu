@@ -2,7 +2,6 @@
 
 支持省级，市级地图可视化上钻下取 
 
-https://lzxue.github.io/yiqingditu/
 
 数据可视化：[Antv L7 ](https://github.com/antvis/L7)
 
